@@ -1,0 +1,22 @@
+{
+  "name": "discord-bot-app",
+  "version": "1.0.0",
+  "description": "A simple Discor Bot built with Node.js discor.js",
+  "main": "bot.js",
+  "scripts": {
+    "start": "nodemon bot.js"
+  },
+  "keywords": [
+    "Node.js",
+    "Discord.js",
+    "Nodemon",
+    "Git"
+  ],
+  "author": "Mojib Mohammad",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^12.5.3",
+    "dotenv": "^10.0.0",
+    "nodemon": "^2.0.7"
+  }
+}
